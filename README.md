@@ -4,7 +4,8 @@
   </a>
 </p>
 
-<h3 align="center">Workshop on New Measures & Metrics</h3>
+<h2 align="center">Workshop on New Measures & Metrics</h2>
+<h3 align="center">LAK24</h3>
 
 
 # New Measures & Metrics in Education 
