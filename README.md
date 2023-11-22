@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://.png" alt="nmme logo" width="200" height="165">
+    <img src="https://github.com/charles-lang/measures-metrics-LAK24/blob/main/nmmlogo.png" alt="nmme logo" width="200" height="165">
   </a>
 </p>
 
