@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://github.com/charles-lang/measures-metrics-LAK24/blob/main/nmmelogo2.png" alt="nmme logo" width="300" height="190">
+    <img src="https://github.com/charles-lang/measures-metrics-LAK24/blob/main/nmmelogo2.png" alt="nmme logo" width="300" height="200">
   </a>
 </p>
 
 <h2 align="center">Workshop on New Measures & Metrics</h2>
+
 <h3 align="center">LAK24</h3>
 
 
