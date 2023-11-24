@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq">
-    <img src="https://github.com/charles-lang/measures-metrics-LAK24/blob/main/nmmelogo2.png" width="300" height="210">
+    <img src="/nmmelogo2.png" alt = "nmme logo" width="300" height="210">
   </a>
 </p>
 
