@@ -17,19 +17,22 @@
 
 Are you investigating a novel educational measure? A new way to count student progress? A radical way to calculate attention? A creative adjustment to a socio-emotional metric? A KPI for classroom activities? The LAK24 Workshop on New Measures & Metrics is the place to be.
 
-We're bringing together a smart, diverse crew of researchers and practitioners to hatch new ideas for educational measures and metrics. The goal? Move the needle on the devlopment and implementation of new ways of estimating important constructs in education.
+The NMME Workshop at LAK24 is bringing together researchers and practitioners to hatch new ideas for educational measures and metrics. The goal is to strengthen the development and utilization of measurment tools from the learning analytics community. 
 
-## Get involved!
+## Call for Participation
 
-The key activity will be the presentation and discussion of particpant-submitted measures and metrics. Submit a measure or metric that you are currently working on or want to in the future! Submissions are short survey responses here. The most promising measures as voted on by partipants will recieve a $500 incentive to help move their work forward! 
+Get involved! The main activity will be the presentation and discussion of particpant-submitted measures and metrics. To take part please [**submit a measure or metric that you are currently working on or want to be working on in the future by December 16th!**](https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq).  
 
-*What is the difference between a measure and a metric? Good question and one we will dive into during the workshop. The two words are sometimes used interchangeably, but there is a general sense that a measure is a number and a metric involves more substantial processing of a measure.*
+**The most promising measure, as voted on by partipants, will recieve a $300 USD incentive award to help move their work forward.**
+
+Registration for attendance is also required via the [LAK 2024 conference webpage](https://www.solaresearch.org/events/lak/lak24/).
+
 
 ## Organizers
 
-Charles Lang   
-Geraldine Gray  
-Christopher Brooks  
-Yoav Bergner  
+Charles Lang, Teachers College Columbia University     
+Geraldine Gray, TU Dublin  
+Christopher Brooks, University of Michigan  
+Yoav Bergner, NYU
 
 
