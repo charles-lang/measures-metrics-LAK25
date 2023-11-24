@@ -20,7 +20,7 @@ The NMME Workshop at LAK24 is bringing together researchers and practitioners to
 
 ## Call for Participation
 
-Get involved! The main activity will be the presentation and discussion of particpant-submitted measures and metrics. To take part please [**submit a measure or metric that you are currently working on or want to be working on in the future by December 16th!**](https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq).  
+Get involved! The main activity will be the presentation and discussion of particpant-submitted measures and metrics. To take part please [**submit a measure or metric that you are currently working on or want to be working on in the future by December 16th!**](https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq)  
 
 **The most promising measure, as voted on by partipants, will recieve a $300 USD incentive award to help move their work forward.**
 
