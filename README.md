@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq">
-    <img src="https://github.com/charles-lang/measures-metrics-LAK24/blob/main/nmmelogo2.png" alt="nmme logo" width="300" height="210">
-  </a>
-</p>
 
-<h1 align="center">Workshop on New Measures & Metrics in Education<br> LAK24</h1>
 
 
 # Workshop Details 
