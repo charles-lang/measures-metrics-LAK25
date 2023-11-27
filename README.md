@@ -9,7 +9,7 @@
 # Workshop Details 
 
 **Date:**  Monday, March 18  
-**Time:**  9:00am-10:00am  
+**Time:**  9:00am-12:30pm  
 **Place:** In-person, Kyoto, Japan  
 
 ## Overview
