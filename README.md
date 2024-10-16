@@ -8,9 +8,9 @@
 
 # Workshop Details 
 
-**Date:**  Monday, March 18  
-**Time:**  9:00am-12:30pm  
-**Place:** In-person, Kyoto, Japan  
+**Date:**  TBD  
+**Time:**  TBD 
+**Place:** In-person, Dublin Ireland 
 
 ## Overview
 
@@ -24,14 +24,13 @@ Get involved! The main activity will be the presentation and discussion of parti
 
 **The most promising measure, as voted on by partipants, will recieve a $300 USD incentive award to help move their work forward.**
 
-Registration for attendance is also required via the [LAK 2024 conference webpage](https://www.solaresearch.org/events/lak/lak24/).
+Registration for attendance is also required via the [LAK 2025 conference webpage](https://www.solaresearch.org/events/lak/lak25/).
 
 
 ## Organizers
 
 Charles Lang, Teachers College Columbia University     
 Geraldine Gray, TU Dublin  
-Christopher Brooks, University of Michigan  
-Yoav Bergner, NYU
+Ruth Cobos, 
 
 
