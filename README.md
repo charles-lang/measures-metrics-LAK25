@@ -30,5 +30,6 @@ Registration for attendance is also required via the [LAK 2025 conference webpag
 Charles Lang, Teachers College Columbia University     
 Geraldine Gray, TU Dublin  
 Ruth Cobos, Universidad Autonoma de Madrid
+Detra Price-Dennis, Ohio State University
 
 
